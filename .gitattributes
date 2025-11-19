@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.ts linguist-generated
+*.js linguist-generated
+*.tsx linguist-generated
+*.jsx linguist-generated
+*.css linguist-generated
+*.html linguist-generated
